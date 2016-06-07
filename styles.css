@@ -1,0 +1,11 @@
+body { font: 14px Verdana; }
+main { margin: 0 50px; background-color: lightgrey; }
+nav { background-color: darkgrey; padding: 5px; }
+li { color: grey; }
+li :first-child + span { font-size: 15px; color: black; }
+.brand { font-size: 15px; font-weight: bold; }
+.bullet { display: inline-block; width: 10px; height: 10px; background: url(https://tiy-learn-content.s3.amazonaws.com/c50f8f23-grayarrow.gif); }
+.icon { color: white; border: 1px solid white; padding: 0 4px; }
+.login-link { color: black; text-decoration: none; float: right; }
+.sep { color: white; }
+.subtitle { display: block; font-size: 12px; padding: 0 0 4px 15px; }
